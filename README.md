@@ -108,12 +108,13 @@ Web Browser Preview
 
 FlipkartHomepageUI
 │
-|
-├── case.html
+├── README.md
 |
 ├── case.css
 |
-└── README.md
+├── case.html
+|
+└── FlipkartHomeUI.jpeg
 
 🚀 How to Run the Project
 Download or clone the repository
