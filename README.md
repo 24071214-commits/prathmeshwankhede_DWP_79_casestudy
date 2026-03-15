@@ -106,7 +106,7 @@ Web Browser Preview
 
 📂 Project Structure:-
 
-FlipkartHomepageUI
+Flipkart Homepage UI:-
 │
 ├── README.md
 |
@@ -114,7 +114,7 @@ FlipkartHomepageUI
 |
 ├── case.html
 |
-└── FlipkartHomeUI.jpeg
+├──  flipkart_homeUI.jpeg
 
 🚀 How to Run the Project
 Download or clone the repository
