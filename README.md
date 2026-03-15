@@ -109,3 +109,5 @@ The design uses simple color contrast for better readability.
 The layout is optimized for mobile-first shopping behavior.
 This project helped improve my understanding of frontend UI design principles.
 Studying real platforms like Flipkart helps developers learn practical UI/UX strategies.
+
+https://github.com/24071214-commits/prathmeshwankhede_DWP_79_casestudy
