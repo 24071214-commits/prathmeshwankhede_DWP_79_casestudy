@@ -1,18 +1,26 @@
 🛒 Flipkart Homepage UI Case Study:-
+
 👨‍🎓 Student Details:-
+
 Name: Prathmesh Wankhede
 Roll No: 79
 Department: ETC (Electronics & Telecommunication)
+
 📖 Project Overview:-
+
 This project is a UI case study and basic clone of the Flipkart mobile homepage created using HTML and CSS. The purpose of this project is to understand the design structure, layout hierarchy, and user interface strategies used by Flipkart, one of the largest e-commerce platforms in India.
 The project recreates important sections of the homepage such as the header, search bar, category navigation, promotional banner, personalized recommendations, and bottom navigation bar.
+
 🎯 Objective:-
+
 The objective of this case study is to:
 Understand modern e-commerce UI design
 Practice frontend development using HTML and CSS
 Analyze how homepage design helps users discover products quickly
 Study the layout and navigation strategy used in large shopping apps
+
 🧩 Features Implemented:-
+
 1️⃣ Header Section
 The header contains quick access services like Flipkart, Finance, Travel, and Grocery.
 Purpose: Helps users quickly access different services available in the app.
@@ -52,7 +60,9 @@ Categories
 Account
 Cart
 Purpose: Provides easy navigation across main sections of the application.
+
 🎨 UI/UX Design Analysis:-
+
 Visual Hierarchy
 The homepage follows a structured order:
 Search bar
@@ -62,24 +72,29 @@ Recommendations
 Product advertisements
 Navigation menu
 This structure ensures users can quickly find products and deals.
+
 Color Scheme:-
+
 The interface uses:
 🔴 Red for promotions and highlights
 ⚪ White for clean readability
 This combination improves visibility and user attention.
+
 ⚙️ Technologies Used:-
+
 HTML5
 CSS3
 Flexbox Layout
 Tools Used:
 VS Code
 Web Browser Preview
+
 📂 Project Structure:-
 
-flipkart-homepage-ui
+FlipkartHomepageUI
 │
-├── index.html
-├── style.css
+├── case.html
+├── case.css
 └── README.md
 🚀 How to Run the Project
 Download or clone the repository
@@ -89,18 +104,24 @@ git clone https://github.com/yourusername/flipkart-homepage-ui.git
 Open the project folder
 Run the project by opening:
 
-index.html
+case.html
 in your web browser.
+
 📸 Screenshot:-
+
 Example homepage design inspired by Flipkart.
 (flipkart_home.png)
-📚 Learning Outcomes
+
+📚 Learning Outcomes:-
+
 From this project I learned:
 Creating UI layouts using HTML and CSS
 Understanding visual hierarchy in design
 Building mobile-style interface structures
 Studying e-commerce user experience design
+
 📌 Conclusion:-
+
 The homepage design focuses on quick product discovery through search and categories.
 Promotional banners help highlight offers and deals effectively.
 Personalized recommendations increase user engagement.
